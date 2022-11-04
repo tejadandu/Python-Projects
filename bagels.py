@@ -7,7 +7,7 @@ MAX_GUESSES = 10  # (!) Try setting this to 1 or 100.
 def main():
     print(
         """Bagels, a deductive logic game.
-  By Al Sweigart al@inventwithpython.com
+  By Teja Dandu teja.dandu484@gmail.com
 
   I am thinking of a {}-digit number with no repeated digits.
   Try to guess what it is. Here are some clues:
